@@ -46,7 +46,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   一个大学生的网站
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://yiming9137.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -55,10 +55,10 @@ yat:
   date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
-# debug: false
+debug: true
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+header_transparent: flase
 
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
