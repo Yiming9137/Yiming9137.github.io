@@ -106,10 +106,10 @@ coolblack: #090a0b
 spacegrey: #353535
 snowwhite: #ffffff
 #
-theme_color: coolblack
+# theme_color: coolblack
 #
 # Custom color as below:
-# theme_color: "#882250"
+theme_color: "#28adff"
 
 # You can choose a brand color
 # Default brand colors as below:
