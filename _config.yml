@@ -113,9 +113,9 @@ theme_color: spacegrey
 
 # You can choose a brand color
 # Default brand colors as below:
-# orangered: #ff5100
-# greatgold: #f2cb05
-# greenblue: #389092
+orangered: #ff5100
+greatgold: #f2cb05
+greenblue: #389092
 #
 # brand_color: orangered
 #
@@ -177,8 +177,8 @@ banner:
   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
   height: "960px"         # Banner default height
   min_height: null        # Banner minimum height
-  heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-  subheading_style: null  # Custom subheading style (e.g. color: gold)
+  heading_style: font-weight: bold # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+  subheading_style: color: greatgold  # Custom subheading style (e.g. color: gold)
 
 # Excerpt settings
 # excerpt:
