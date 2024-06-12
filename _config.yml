@@ -160,8 +160,8 @@ header_pages:
 # Page default value
 defaults:
   home:
-    heading: "欢迎！！"
-    subheading: "Yiming的小站"
+    heading: "欢迎来到"
+    subheading: "Yiming的小站！！！"
 #     banner: "Your image url"
 
 # Banner default settings
