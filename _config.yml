@@ -179,7 +179,7 @@ banner:
   min_height: null        # Banner minimum height
   heading_style: 
     font-weight: bold # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-    font-size: 20
+    
   subheading_style: 
     color: greatgold  # Custom subheading style (e.g. color: gold)
 
