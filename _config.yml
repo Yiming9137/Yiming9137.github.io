@@ -58,7 +58,7 @@ yat:
 debug: true
 
 # If you don't want transparent header, you can set false
-header_transparent: flase
+header_transparent: true
 
 # If you want to change the content width, you can set to another value
 content_width: "920px"
