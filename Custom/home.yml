@@ -1,5 +1,5 @@
 banner:
-  video: null             # Video banner source
+  video: "/assets/videos/devstories.webm"             # Video banner source
   loop: false              # Video loop
   volume: 1.0               # Video volume (100% is 1.0)
   start_at: 0             # Video start time
