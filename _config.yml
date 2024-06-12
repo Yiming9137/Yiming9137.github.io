@@ -170,7 +170,7 @@ defaults:
 banner:
   video: /assets/videos/devstories.webm             # Video banner source
   loop: true              # Video loop
-  volume: 0               # Video volume (100% is 1.0)
+  volume: 1.0               # Video volume (100% is 1.0)
   start_at: 0             # Video start time
   image: null             # Image banner source
   opacity: 1.0            # Banner opacity (100% is 1.0)
