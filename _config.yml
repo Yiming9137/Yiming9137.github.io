@@ -162,7 +162,7 @@ defaults:
   home:
     heading: "欢迎来到"
     subheading: "Yiming的小站！！！"
-    banner: "/assets/images/favicon.svg"
+    banner: "/assets/images/favicon.ico"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
