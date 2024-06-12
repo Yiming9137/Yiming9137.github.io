@@ -169,7 +169,7 @@ defaults:
 # config it by the front matter for one specific post
 banner:
   video: /assets/videos/devstories.webm             # Video banner source
-  loop: flase              # Video loop
+  loop: false              # Video loop
   volume: 1.0               # Video volume (100% is 1.0)
   start_at: 0             # Video start time
   image: null             # Image banner source
