@@ -109,7 +109,7 @@ snowwhite: #ffffff
 # theme_color: coolblack
 #
 # Custom color as below:
-theme_color: "#28adff"
+theme_color: snowwhite
 
 # You can choose a brand color
 # Default brand colors as below:
