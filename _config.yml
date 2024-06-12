@@ -167,11 +167,11 @@ defaults:
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
-# banner:
-#   video: null             # Video banner source
-#   loop: false              # Video loop
-#   volume: 1.0               # Video volume (100% is 1.0)
-#   start_at: 0             # Video start time
+banner:
+  video: null             # Video banner source
+  loop: false              # Video loop
+  volume: 1.0               # Video volume (100% is 1.0)
+  start_at: 0             # Video start time
   image: assets/images/banners/home.jpeg             # Image banner source
   opacity: 1.0            # Banner opacity (100% is 1.0)
   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
@@ -180,16 +180,16 @@ defaults:
   heading_style: 
     font-weight: bold # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
     
-#   subheading_style: 
-#     color: greatgold  # Custom subheading style (e.g. color: gold)
+  subheading_style: 
+    color: greatgold  # Custom subheading style (e.g. color: gold)
 
 # Excerpt settings
-# excerpt:
-#   default_image: /assets/images/default-image.jpeg  # Default image when the image style is not none
-#   image_style: z          # Image layout style (It's value could be none, left, right, top, z, z-reverse)
-#   image_width: 38.2%      # Image default width
-#   image_height: 160px     # Image default height
-#   text_size: 350          # Words default size
+excerpt:
+  default_image: /assets/images/default-image.jpeg  # Default image when the image style is not none
+  image_style: z          # Image layout style (It's value could be none, left, right, top, z, z-reverse)
+  image_width: 38.2%      # Image default width
+  image_height: 160px     # Image default height
+  text_size: 350          # Words default size
 
 # Pagination setting
 # paginate: 5
